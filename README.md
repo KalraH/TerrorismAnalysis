@@ -6,7 +6,7 @@
 			and organizations succeed. </I>
     </H4>
 		<P> 
-			In this, Presentation of a Web App using Python Sciprt & by applying Dash Framework for displaying visualization of data of Global Terrorism data with the help of 
+			In this, Presentation of a Web App using Python Script & by applying Dash Framework for displaying visualization of data of Global Terrorism data with the help of 
 			a DataSet of approximately 2 Lakh records is done. 
 		</P>
 		<H3><I> Two Types of Visualization methods are being used: </I></H3>
